@@ -42,18 +42,18 @@ The EDA focused on uncovering trends, correlations, and insights into various as
 * Popularity vs. Financial Success:
   * Popularity scores were analysed to see how they align with financial success, and while some overlap exists, it was found that popularity is not always a reliable indicator of revenue.
 
-Insights and Findings
+### Insights and Findings
 * 2011 had the highest number of movie releases.
 * Drama dominated in production volume in 2011, but Action films, despite their smaller output, captured a large share of the revenue, with blockbusters like Avatar driving this trend.
 * The relationship between budget and revenue was generally positive, but certain genres like Action showed a significant disparity, where a few high-budget films earned the majority of the revenue.
 * Avatar stands out as the highest-grossing film in the dataset, both in terms of revenue and popularity.
 
-Repository Structure
+## Repository Structure
 
 * tmdb_movies.csv: The dataset used for the analysis.
 * EDA.ipynb: The Jupyter notebook that contains the detailed exploratory data analysis, including data cleaning and visualisation.
 
-How to Use the Project
+## How to Use the Project
 
 1. Clone the repository and download the dataset and notebooks.
 2. Open the EDA.ipynb notebook to review the data cleaning process and explore trends in movie performance.
